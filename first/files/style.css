@@ -156,15 +156,15 @@ select {
   top: 90px;
   right: 85px;
 }
-.first-section-div{
+.first-section-div {
  display: flex;
   flex-direction: column;
 }
-.first-section > div :first-child{
+.first-section > div :first-child {
   font-size:48px ;
   font-weight: bolder;
 }
-.first-section > div :nth-child(2){
+.first-section > div :nth-child(2) {
   font-size:24px ;
   font-weight: bolder;
 }
